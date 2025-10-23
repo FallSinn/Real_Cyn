@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+logs/
+synn_core_memory.sqlite3
